@@ -1,16 +1,16 @@
 module.exports = [
     {
-      title:'新手指南',
+      title:'第一天的学习git',
       collapsable: true, //可折叠
       children:[
-        '/guide/notes/one',
+        '/learn/git/notes/one',
       ]
     },
     {
-      title:'进阶css指南',
+      title:'第二天的学习git',
       collapsable: true,
       children:[
-        '/guide/notes/two',
+        '/learn/git/notes/two',
       ]
     }
 ]

@@ -3,6 +3,13 @@ module.exports = [
         text: '懵逼指南', link: '/guide/'
     },
     {
+        text: '学习笔记', 
+        items:[
+            {text:'git', link: '/learn/git/'},
+            {text:'vue', link: '/learn/vue/'},
+        ]
+    },
+    {
         text: '面试宝典',
 		items: [
             {text: '初级开发篇', link: '/baodian/zero/'},

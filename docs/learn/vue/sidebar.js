@@ -1,16 +1,16 @@
 module.exports = [
     {
-      title:'新手指南',
+      title:'第一天的学习vue',
       collapsable: true, //可折叠
       children:[
-        '/guide/notes/one',
+        '/learn/vue/notes/one',
       ]
     },
     {
-      title:'进阶css指南',
+      title:'第二天的学习vue',
       collapsable: true,
       children:[
-        '/guide/notes/two',
+        '/learn/vue/notes/two',
       ]
     }
 ]
