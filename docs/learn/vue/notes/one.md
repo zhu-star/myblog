@@ -1,3 +1,10 @@
+---
+title: 【vue】基础
+date: 2021-9-29
+tags:
+- vue
+- webpack
+---
 ## Vue Day 01
 
 ### 一. 邂逅Vuejs

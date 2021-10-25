@@ -1,4 +1,5 @@
 module.exports = [
+    { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' },
     {
         text: '懵逼指南', link: '/guide/'
     },

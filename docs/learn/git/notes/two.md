@@ -1,3 +1,11 @@
+---
+title: 【git】git学习2
+date: 2021-10-23
+tags:
+
+- vue
+- git
+---
 ## 第二天
 
 .git/objects/06/e21bb0105e2de6c846725a9a7172f57dd1af96   workspae项目的第一个版本(树对象)
