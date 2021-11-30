@@ -1,5 +1,4 @@
 module.exports = {
-  base:"/docs/",
     title: '无敌你辉哥',
     description: '朱登辉的个人博客',
     dest: './dist',//默认在.vuepress下，在打包（build）命令下才会执行
